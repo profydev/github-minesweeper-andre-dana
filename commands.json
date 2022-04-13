@@ -12,7 +12,16 @@
     "clear C2",
     "clear A3",
     "clear A2",
-    "clear B2"
-
+    "clear B2",
+    "flag E1",
+    "flag B1",
+    "clear A1",
+    "clear C1",
+    "clear D1",
+    "flag E1",
+    "clear F7",
+    "clear G7",
+    "clear e8",
+    "clear H6"
   ]
 }
